@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eslamicoo912](https://github.com/eslamicoo912)
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **software, web development, fronend, backend, react.js, node.js**
 
 - 📫 How to reach me **eslamicoo3@gmail.com**
 

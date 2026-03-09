@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eslam Ashraf</h1>
-<h3 align="center">A passionate full stack web developer from Egypt</h3>
+<h3 align="center">A passionate software engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **e-commerce dashboard for digital marketers**
+- 🔭 I’m currently working on **sass project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eslamicoo912](https://github.com/eslamicoo912)
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **Software engineering, React.js, Node.js, Database (MongoDB)**
 
 - 📫 How to reach me **eslamicoo3@gmail.com**
 

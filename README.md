@@ -51,42 +51,19 @@ Therapist-patient appointment platform.
 
 ---
 
-## 💼 Experience
-
-### 🏢 Web Developer – Ersa Company
-- Built **contract management system (CRUD)**
-- Implemented **Role-Based Access Control (RBAC)**
-
-### 💻 Freelance Software Engineer
-- Built **appointment booking system with real-time chat**
-- Designed **multi-tenant architecture**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
-- Node.js, Express.js
-- MongoDB, Redis
-- REST APIs
-- Authentication (JWT, RBAC)
+- Node.js, Express.js | MongoDB | Redis | REST APIs | Authentication (JWT, RBAC)
 
 ### Frontend
-- React.js
-- State Management
-- Tailwind CSS
+- React.js | State Management | Tailwind CSS
 
 ### DevOps & Cloud
-- Docker
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- AWS
+- Docker | Git & GitHub | GitHub Actions (CI/CD) | AWS
 
 ### Software Engineering
-- SOLID Principles
-- Design Patterns
-- Scalable Architecture
-- Clean Code
+- SOLID Principles | Design Patterns | Scalable Architecture | Clean Code
 
 ---
 

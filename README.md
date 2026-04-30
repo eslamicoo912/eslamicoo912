@@ -35,7 +35,7 @@ Building scalable systems, SaaS platforms, and real-world backend architectures 
 
 ## 📫 Connect With Me
 
-<p align="left" style={{display: 'flex', gap: '4px'}}>
+<p align="left" display:"flex" style={{display: "flex", gap: "4px"}}>
 <a href="https://linkedin.com/in/eslamicoo912" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>

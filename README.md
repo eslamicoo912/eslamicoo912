@@ -35,17 +35,7 @@ Building scalable systems, SaaS platforms, and real-world backend architectures 
 
 ## 📫 Connect With Me
 
-<p align="left" style="display: flex; gap: 10px;">
-<a href="https://linkedin.com/in/eslamicoo912" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/eslamicoo912" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/uct1-a_fmqbnamr_4ij2ijiq" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
-</p>
+<p align="left"><a href="https://linkedin.com/in/eslamicoo912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://fb.com/eslamicoo912" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a><a href="https://www.youtube.com/c/uct1-a_fmqbnamr_4ij2ijiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a></p>
 
 ---
 

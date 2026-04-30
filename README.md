@@ -1,22 +1,118 @@
 <h1 align="center">Hi 👋, I'm Eslam Ashraf</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer (MERN)</h3>
 
-- 🔭 I’m currently working on **sass project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/eslamicoo912](https://github.com/eslamicoo912)
-
-- 💬 Ask me about **Software engineering, React.js, Node.js, Database (MongoDB)**
-
-- 📫 How to reach me **eslamicoo3@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1EBQFUQLBeX650h4FJB8r474YSXnMnVHh](https://drive.google.com/drive/folders/1EBQFUQLBeX650h4FJB8r474YSXnMnVHh)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eslamicoo912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslamicoo912" height="30" width="40" /></a>
-<a href="https://fb.com/eslamicoo912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslamicoo912" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uct1-a_fmqbnamr_4ij2ijiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct1-a_fmqbnamr_4ij2ijiq" height="30" width="40" /></a>
+<p align="center">
+Building scalable systems, SaaS platforms, and real-world backend architectures 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer with hands-on experience in **full-stack development (MERN)**
+- 🧠 Strong foundation in **Software Engineering principles (SOLID, Design Patterns, Clean Architecture)**
+- ⚙️ Focused on building **scalable APIs, SaaS systems, and backend architectures**
+- ☁️ Experienced with **Redis (Caching & Rate Limiting), Docker, CI/CD, AWS**
+- 🔥 Currently building **SaaS products & scalable backend systems**
+
+---
+
+## 🚀 Projects
+
+### 🔹 FreelaXer – SaaS Scope Management System
+A SaaS platform helping freelancers prevent scope creep using structured workflows.
+
+- Designed **Change Request workflow system**
+- Implemented **Redis caching (Cache-Aside + Stampede prevention)**
+- Built **distributed rate limiter (Token Bucket Algorithm)**
+- Applied **Service–Repository architecture**
+- Designed **state machine workflows**
+- Event-driven notification system
+
+---
+
+### 🔹 EasyMerch.ai – AI Assistant Platform
+AI-powered platform for text & image generation.
+
+- Integrated **OpenAI + Stability AI**
+- Built **usage-based system with request limiting**
+- Implemented **subscription billing with Stripe**
+- Plan-based architecture for cost control
+
+---
+
+### 🔹 Queen for Mental Health – Booking System
+Therapist-patient appointment platform.
+
+- Real-time chat using **Socket.IO**
+- Payment integration with **Kashier**
+- Admin dashboard & scheduling system
+- Notification system
+
+---
+
+## 💼 Experience
+
+### 🏢 Web Developer – Ersa Company
+- Built **contract management system (CRUD)**
+- Implemented **Role-Based Access Control (RBAC)**
+
+### 💻 Freelance Software Engineer
+- Built **appointment booking system with real-time chat**
+- Designed **multi-tenant architecture**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Node.js, Express.js
+- MongoDB, Redis
+- REST APIs
+- Authentication (JWT, RBAC)
+
+### Frontend
+- React.js
+- State Management
+- Tailwind CSS
+
+### DevOps & Cloud
+- Docker
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- AWS
+
+### Software Engineering
+- SOLID Principles
+- Design Patterns
+- Scalable Architecture
+- Clean Code
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/eslamicoo912" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://fb.com/eslamicoo912" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/c/uct1-a_fmqbnamr_4ij2ijiq" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📄 Resume & Portfolio
+
+- 📄 Resume: https://drive.google.com/drive/folders/1EBQFUQLBeX650h4FJB8r474YSXnMnVHh
+- 💻 GitHub: https://github.com/eslamicoo912
+
+---
+
+## 💡 Quote
+
+> "Code is how I think. Systems are how I create impact."

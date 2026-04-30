@@ -17,40 +17,6 @@ Building scalable systems, SaaS platforms, and real-world backend architectures 
 
 ---
 
-## 🚀 Projects
-
-### 🔹 FreelaXer – SaaS Scope Management System
-A SaaS platform helping freelancers prevent scope creep using structured workflows.
-
-- Designed **Change Request workflow system**
-- Implemented **Redis caching (Cache-Aside + Stampede prevention)**
-- Built **distributed rate limiter (Token Bucket Algorithm)**
-- Applied **Service–Repository architecture**
-- Designed **state machine workflows**
-- Event-driven notification system
-
----
-
-### 🔹 EasyMerch.ai – AI Assistant Platform
-AI-powered platform for text & image generation.
-
-- Integrated **OpenAI + Stability AI**
-- Built **usage-based system with request limiting**
-- Implemented **subscription billing with Stripe**
-- Plan-based architecture for cost control
-
----
-
-### 🔹 Queen for Mental Health – Booking System
-Therapist-patient appointment platform.
-
-- Real-time chat using **Socket.IO**
-- Payment integration with **Kashier**
-- Admin dashboard & scheduling system
-- Notification system
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -69,7 +35,7 @@ Therapist-patient appointment platform.
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="left" style={{display: 'flex', gap: '4px'}}>
 <a href="https://linkedin.com/in/eslamicoo912" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
